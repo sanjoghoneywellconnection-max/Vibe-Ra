@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VIBE-RA: AI DJ Intelligence",
+  "description": "A world-class AI DJ that curates and mixes perfectly vibed sets based on context, region, and duration using Gemini's deep musical knowledge.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
